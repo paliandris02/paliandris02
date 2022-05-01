@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paliandris02
-- 👀 I’m interested in Python, C++, Frontend
-- 🌱 I’m currently learning Python, Frontend
+- 👀 I’m interested in HTML,CSS,JS,REACT,PYTHON,C#/.NET,SQL
+- 🌱 I’m currently learning C#/.NET,SQL
 - 📫 pali.andris@gmail.com
 
 <!---
